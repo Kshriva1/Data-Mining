@@ -1,11 +1,11 @@
-#Name
-Kundan Shrivastav
+# Name
+ Kundan Shrivastav
 
-#ompilation
+# Compilation
 
 `javac dm_project.java`
 
-#Execution
+# Execution
 
 `java dm_project`
 
